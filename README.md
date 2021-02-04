@@ -1,3 +1,5 @@
+Can anyone reverse this so we can compile new version?
+
 # fping-windows 3.00
 Fping windows binary mirror
 Acquired through Web Archive.
